@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "A simple blog about data science and programming in Python."
+title: "Hi! I'm Aaron."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Hi! I'm Aaron. 
-## This Blog
+## A Simple Blog about Me, Data Science, and Python
 I made this blog to make me a better programmer and data scientist. I love teaching, and learn by doing it. My hope is that something in this 
 blog helps and/or entertains someone who stumbles upon it.
 ## About Me
