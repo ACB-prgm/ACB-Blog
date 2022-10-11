@@ -175,9 +175,9 @@ kramdown:
 
 # Collections
 collections:
-  test:
-    output: true
-    permalink: /:collection/:path/
+  # test: # custom
+  #   output: true
+  #   permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -209,7 +209,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _custom
   - scope:
       path: ""
       type: test
