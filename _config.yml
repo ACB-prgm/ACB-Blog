@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Aaron Bastian"
 description              : &description "personal description"
 url                      : https://acb-prgm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/ACB-Blog/" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/ACB-Blog" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/ACB-prgm/ACB-Blog"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -218,7 +218,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _test
+  # _publications
   - scope:
       path: ""
       type: publications
