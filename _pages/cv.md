@@ -12,9 +12,7 @@ redirect_from:
 Education
 ======
 * New York Institute of Technology, College of Osteopathic Medicine (NYITCOM) | Sept 2021 - June 2022
-
-* University of Wisconsin, Madison | May 2019
-B.S. Microbiology | GPA: 3.77
+* University of Wisconsin, Madison | May 2019 | **B.S. Microbiology | GPA: 3.77**
 - Dean’s List: Spring 2017, Fall 2017, and Fall 2018 semesters.
 
 Research experience
@@ -104,7 +102,7 @@ Service and leadership
   - Led meetings and delegated tasks to maintain the infrastructure of the organization
   - Currently conducting research studying the effects of disability in rural communities in Malawi 
   — literature review, writing/editing manuscript, data analysis/visualization
-Board of Directors, Student Rep. | Wisconsin Academy of Nutrition and Dietetics | State of Wisconsin
+* Board of Directors, Student Rep. | Wisconsin Academy of Nutrition and Dietetics | State of Wisconsin
 **Jan 2017 – May 2018**
   - Participated in board meetings discussing organization infrastructure and public policy advocacy
   - Developed and maintained the organization’s official Twitter account
